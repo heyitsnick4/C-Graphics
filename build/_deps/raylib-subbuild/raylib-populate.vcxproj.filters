@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\03b46f45b073502b9a36bcad87bc05e9\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\21a1f5b2965631ee3615dfba972f50a0\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\120ec29e5e30692baad6d359152d3cad\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\1.Dev\C-Graphics\build\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DCB7D949-A1B4-3C26-A354-42435F6D2D77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
